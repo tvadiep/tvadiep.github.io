@@ -6,7 +6,6 @@ published: true
 ### Name: Tran Van Diep
 Mail: tvdiep.it@gmail.com
 
-
 ```python
 # Copyright 2021 MIT 6.S191 Introduction to Deep Learning. All Rights Reserved.
 # 
