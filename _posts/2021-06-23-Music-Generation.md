@@ -2,6 +2,15 @@
 published: true
 ---
 ### It's really failed :(
+<table align="center">
+  <td align="center"><a target="_blank" href="http://introtodeeplearning.com">
+        <img src="https://i.ibb.co/Jr88sn2/mit.png" style="padding-bottom:5px;" />
+      Visit MIT Deep Learning</a></td>
+  <td align="center"><a target="_blank" href="https://colab.research.google.com/github/aamini/introtodeeplearning/blob/master/lab1/Part2_Music_Generation.ipynb">
+        <img src="https://i.ibb.co/2P3SLwK/colab.png"  style="padding-bottom:5px;" />Run in Google Colab</a></td>
+  <td align="center"><a target="_blank" href="https://github.com/aamini/introtodeeplearning/blob/master/lab1/Part2_Music_Generation.ipynb">
+        <img src="https://i.ibb.co/xfJbPmL/github.png"  height="70px" style="padding-bottom:5px;"  />View Source on GitHub</a></td>
+</table>
 
 ### Name: Tran Van Diep
 Mail: tvdiep.it@gmail.com
